@@ -29,7 +29,7 @@ public class Test {
 
         String ActualUsrerName = RestAssured.given().log().all().pathParam("username", userdto.getUsername()).when().get("/user/{username}/")
                 .then().log().all().statusCode(200).extract().response().jsonPath().get("username").toString();
-        Assert.assertEquals(ActualUsrerName,"Sunny","User name are not equal");
+        Assert.assertEquals(ActualUsrerName,userdto.getUsername());
 
     }
 }
