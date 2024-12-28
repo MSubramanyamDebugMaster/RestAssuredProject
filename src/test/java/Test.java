@@ -32,4 +32,8 @@ public class Test {
         Assert.assertEquals(ActualUsrerName,userdto.getUsername());
 
     }
+    public void updateUser()
+    {
+
+    }
 }
