@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d679061a-36c7-477a-9f77-62b2ec302975" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pojos/Helper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pojos/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pojos/UserDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pojos/UserDTO$UserDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pojos/UserDTO$UserDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pojos/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pojos/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +54,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C:/Users/Dell/Documents/cucumber framework/RestAssured/testng.xml">
+  <component name="RunManager" selected="TestNG.Test">
     <configuration name="C:/Users/Dell/Documents/cucumber framework/RestAssured/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -86,9 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Dell/Documents/cucumber framework/RestAssured/testng.xml" />
         <item itemvalue="TestNG.Test" />
         <item itemvalue="TestNG.Test.createUserByUserName" />
+        <item itemvalue="TestNG.C:/Users/Dell/Documents/cucumber framework/RestAssured/testng.xml" />
       </list>
     </recent_temporary>
   </component>
